@@ -1,0 +1,24 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    border: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 18px;
+    text-align: center;
+}
+
+.container {
+    width: 150px;
+    border: 1px solid grey;
+    display: inline-flex;
+}
+
+.box {
+    width: 75px;
+    height: 75px;
+    background-color: dodgerblue;
+    border: 1px solid turquoise;
+}
